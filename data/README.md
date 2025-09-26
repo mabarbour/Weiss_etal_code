@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 Below is the metadata for the associated experimental data files. Data
 from `tess_beetleparams.csv` was generated from a statistical model that
